@@ -1,8 +1,6 @@
 package ParseFactory;
 
-import ParseFactory.*;
 import ParseFactory.Parsers.*;
-import org.json.simple.JSONArray;
 
 import java.util.ArrayList;
 
@@ -22,7 +20,7 @@ public class FactoryBuilder {
                 case DB:
                     return new DBParser().cityParse();
                 case JSON:
-                    return new JSONParser().cityParse();
+                    return new JSONParsers().cityParse();
                 case FILE:
                     return new TXTParser().cityParse();
                 default:

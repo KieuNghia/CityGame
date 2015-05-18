@@ -24,7 +24,7 @@ public class DBParser extends AbstractFactory{
             while (rs.next()) {
 
                 String town = rs.getString(1);
-                cities.add(town);
+                cities.add(town.toUpperCase());
             }
 
         } catch (SQLException e) {

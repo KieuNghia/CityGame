@@ -39,7 +39,7 @@ public class XMLParser extends AbstractFactory {
                         throws SAXException {
 
                     if (bName) {
-                        cities.add(new String(ch, start, length).toLowerCase());
+                        cities.add(new String(ch, start, length).toUpperCase());
                         bName = false;
                     }
 

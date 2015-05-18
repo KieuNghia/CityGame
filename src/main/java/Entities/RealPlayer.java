@@ -31,7 +31,7 @@ public class RealPlayer extends Player {
 
         if (Character.toUpperCase(city.charAt(1)) == Character.toUpperCase(Game.getFirstLetter())) {
             if (Game.citiesList.contains(city.toUpperCase())) {
-
+                Game.setCurrentWord(city);
                 Game.setFirstLetter(city.charAt(city.length() - 1));
                 Game.citiesList.remove(city.toUpperCase());
                 return true;

@@ -36,7 +36,7 @@ public class EXELParser extends AbstractFactory {
                     int cellType = cell.getCellType();
                     switch (cellType) {
                         case Cell.CELL_TYPE_STRING:
-                            cities.add(cell.getStringCellValue().toLowerCase());
+                            cities.add(cell.getStringCellValue().toUpperCase());
                             break;
                     }
 

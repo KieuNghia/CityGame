@@ -27,7 +27,7 @@ public class AIPlayer extends Player {
 
         for(String city: Game.citiesList){
             if(Character.toUpperCase(letter) == Character.toUpperCase(city.charAt(1)) ){
-
+                Game.setCurrentWord(city);
                 Game.setFirstLetter(city.charAt(city.length() - 1));
                 Game.citiesList.remove(city);
                 return true;
