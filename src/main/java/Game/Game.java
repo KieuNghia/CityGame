@@ -3,18 +3,50 @@ package Game;
 import Entities.AIPlayer;
 import Entities.Player;
 import Entities.RealPlayer;
+import ParseFactory.FactoryBuilder;
 
-import java.util.ArrayList;
-import java.util.InputMismatchException;
-import java.util.LinkedList;
-import java.util.Scanner;
+import java.util.*;
 
 public class Game {
 
-    public static ArrayList<String> citiesList;
+    private static List<String> citiesList;
+
     private static char firstLetter;
     private static String currentWord;
-    private static LinkedList<Player> players;
+    private static String winner;
+
+    private static LinkedList<Player> playersList = new LinkedList<>();
+
+    public Game() {
+
+        setCitiesList(new FactoryBuilder().createCitiesBuilder("EXEL"));
+
+
+    }
+
+    public static String getWinner() {
+        return winner;
+    }
+
+    public static void setWinner(String winner) {
+        Game.winner = winner;
+    }
+
+    public static List<String> getCitiesList() {
+        return citiesList;
+    }
+
+    public static void setCitiesList(List citiesList) {
+        Game.citiesList = citiesList;
+    }
+
+    public static LinkedList<Player> getPlayersList() {
+        return playersList;
+    }
+
+    public static void setPlayersList(LinkedList<Player> playersList) {
+        Game.playersList = playersList;
+    }
 
     public static String getCurrentWord() {
         return currentWord;
@@ -22,14 +54,6 @@ public class Game {
 
     public static void setCurrentWord(String currentWord) {
         Game.currentWord = currentWord;
-    }
-
-    public static LinkedList<Player> getPlayers() {
-        return players;
-    }
-
-    public static void setPlayers(LinkedList<Player> players) {
-        Game.players = players;
     }
 
 
@@ -44,7 +68,7 @@ public class Game {
 
     public void start() {
 
-        int realPlayerCount;
+        int realPlayerCount = 0;
         int AIPlayerCount = 0;
 
 
@@ -52,87 +76,89 @@ public class Game {
         System.out.println("Enter real player count");
 
 
-        try {
+        while (!scanner.hasNextInt()) {
+            System.out.println("Not a number");
+            scanner.next();
 
-
-            while (!scanner.hasNextInt()) {
-                System.out.println("Not a number");
-                scanner.next();
-
-            }
-        } catch (InputMismatchException e) {
-            System.out.println("InputMismatchException real player count ");
         }
         realPlayerCount = scanner.nextInt();
+
 
         System.out.println("Enter AI player count");
 
 
-        try {
+        while (!scanner.hasNextInt())
 
-            while (!scanner.hasNextInt()) {
-                System.out.println("Not a number");
-                scanner.next();
+        {
+            System.out.println("Not a number");
+            scanner.next();
 
-            }
-        } catch (InputMismatchException e) {
-
-
-            AIPlayerCount = scanner.nextInt();
-
-            System.out.println("InputMismatchException AI player");
         }
-        Game.setPlayers(setPlayersList(realPlayerCount, AIPlayerCount));
+
+
+        AIPlayerCount = scanner.nextInt();
+
+
+        setPlayersList(realPlayerCount, AIPlayerCount);
 
         firstLetter = 'A';
         System.out.println("First Letter = " + firstLetter);
-        while (players.size() != 1) {
 
-            for (Player player : players) {
-                if (player instanceof RealPlayer) {
+        while ( getPlayersList().size() != 1) {
 
-                    if (((RealPlayer) player).move()) {
+            for (Iterator<Player> playerIterator = getPlayersList().iterator(); playerIterator.hasNext(); ) {/*Player player : playersList)*/
+                {
+                    Player player = playerIterator.next();
+                    if (player instanceof RealPlayer) {
 
-                        System.out.println(((RealPlayer) player).getName() + " inserted " + getCurrentWord());
+                        if (((RealPlayer) player).move()) {
 
+                            System.out.println(((RealPlayer) player).getName() + " inserted " + getCurrentWord());
 
-                    } else {
-                        System.out.println(((RealPlayer) player).getName() + " removed from game");
-                        players.remove(player);
+                        } else {
+                            System.out.println(((RealPlayer) player).getName() + " removed from game");
+                            playerIterator.remove();
+                            continue;
 
-
-                    }
-                } else {
-
-                    if (((AIPlayer) player).move()) {
-
-                        System.out.println(((AIPlayer) player).getName() + " inserted " + getCurrentWord());
-
-
-
-                    } else {
-                        System.out.println(((AIPlayer) player).getName() + " removed from game");
-                        players.remove(player);
-
+                        }
 
                     }
+                    if (player instanceof AIPlayer) {
+
+
+                        if (((AIPlayer) player).move()) {
+
+                            System.out.println(((AIPlayer) player).getName() + " inserted " + getCurrentWord());
+
+
+                        } else {
+                            System.out.println(((AIPlayer) player).getName() + " removed from game");
+                            playerIterator.remove();                            
+                            continue;
+
+
+                        }
+                    } else {
+                        continue;
+                    }
+
+
                 }
 
 
             }
 
 
+
+
         }
-
-
         checkWinner();
-
     }
 
 
     public static void checkWinner() {
 
-        Player winner = players.getFirst();
+        Player winner = playersList.getFirst();
         String winnerString;
         if (winner instanceof RealPlayer) {
             winnerString = ((RealPlayer) winner).getName();
@@ -146,17 +172,15 @@ public class Game {
     }
 
 
-    public static LinkedList<Player> setPlayersList(int real, int AI) {
-
-        LinkedList<Player> players = null;
+    public static void setPlayersList(int real, int AI) {
 
         for (int i = 0; i < real; i++) {
             try {
-                players.add(new RealPlayer("RealPlayer " + i));
+                getPlayersList().add(new RealPlayer("RealPlayer " + i));
 
             } catch (NullPointerException e) {
 
-                System.out.println("Null pointer in setPlayersList");
+                System.out.println("Null pointer in setPlayersListREAL");
 
             }
         }
@@ -164,18 +188,14 @@ public class Game {
 
         for (int i = 0; i < AI; i++) {
             try {
-                players.add(new AIPlayer("AIPlayer " + i));
+                getPlayersList().add(new AIPlayer("AIPlayer " + i));
 
             } catch (NullPointerException e) {
 
-                System.out.println("Null pointer in setPlayersList");
+                System.out.println("Null pointer in setPlayersListAI");
 
             }
         }
 
-        return players;
-
     }
-
-
 }

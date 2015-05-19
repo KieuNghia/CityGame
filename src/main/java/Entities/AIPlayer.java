@@ -3,6 +3,8 @@ package Entities;
 
 import Game.Game;
 
+import java.util.Iterator;
+
 
 public class AIPlayer extends Player {
 
@@ -24,12 +26,13 @@ public class AIPlayer extends Player {
     public boolean move() {
 
     char letter = Game.getFirstLetter();
-
-        for(String city: Game.citiesList){
-            if(Character.toUpperCase(letter) == Character.toUpperCase(city.charAt(1)) ){
+        Iterator<String> cityIterator = Game.getCitiesList().iterator();
+        while (cityIterator.hasNext())/*(String city: Game.getCitiesList())*/{
+            String city = cityIterator.next();
+            if(Character.toUpperCase(letter) == Character.toUpperCase(city.charAt(0)) ){
                 Game.setCurrentWord(city);
                 Game.setFirstLetter(city.charAt(city.length() - 1));
-                Game.citiesList.remove(city);
+                Game.getCitiesList().remove(Game.getCitiesList().indexOf(city));
                 return true;
 
             }

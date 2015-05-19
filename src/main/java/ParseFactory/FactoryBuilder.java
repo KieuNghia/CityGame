@@ -3,14 +3,19 @@ package ParseFactory;
 import ParseFactory.Parsers.*;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class FactoryBuilder {
 
-        private enum TypeParser {
+    public FactoryBuilder() {
+        super();
+    }
+
+    private enum TypeParser {
             DB,EXEL,XML,JSON,FILE
         }
 
-        public static ArrayList createCitiesBuilder(String typeParser) {
+        public ArrayList createCitiesBuilder(String typeParser) {
             TypeParser type = TypeParser.valueOf(typeParser.toUpperCase());
             switch (type) {
                 case XML:
@@ -19,8 +24,8 @@ public class FactoryBuilder {
                     return new EXELParser().cityParse();
                 case DB:
                     return new DBParser().cityParse();
-                case JSON:
-                    return new JSONParsers().cityParse();
+               /* case JSON:
+                    return new JSONParsers().cityParse();*/
                 case FILE:
                     return new TXTParser().cityParse();
                 default:
