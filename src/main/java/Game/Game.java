@@ -6,9 +6,11 @@ import Entities.RealPlayer;
 import ParseFactory.FactoryBuilder;
 
 import java.util.*;
+import java.util.logging.Logger;
 
 public class Game {
 
+    private static final org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger("debugLogger");
     private static List<String> citiesList;
 
     private static char firstLetter;
@@ -102,9 +104,10 @@ public class Game {
         setPlayersList(realPlayerCount, AIPlayerCount);
 
         firstLetter = 'A';
+        log.trace("First letter" + firstLetter);
         System.out.println("First Letter = " + firstLetter);
 
-        while ( getPlayersList().size() != 1) {
+        while (getPlayersList().size() != 1) {
 
             for (Iterator<Player> playerIterator = getPlayersList().iterator(); playerIterator.hasNext(); ) {/*Player player : playersList)*/
                 {
@@ -112,11 +115,13 @@ public class Game {
                     if (player instanceof RealPlayer) {
 
                         if (((RealPlayer) player).move()) {
-
+                            log.info(((RealPlayer) player).getName() + " inserted " + getCurrentWord());
                             System.out.println(((RealPlayer) player).getName() + " inserted " + getCurrentWord());
 
                         } else {
-                            System.out.println(((RealPlayer) player).getName() + " removed from game");
+                            log.info(((RealPlayer) player).getName() + " inserted " + getCurrentWord());
+                            log.info(((RealPlayer) player).getName() + "lose, removed from game");
+                            System.out.println(((RealPlayer) player).getName() + "lose, removed from game");
                             playerIterator.remove();
                             continue;
 
@@ -127,13 +132,15 @@ public class Game {
 
 
                         if (((AIPlayer) player).move()) {
+                            log.info(((AIPlayer) player).getName() + " inserted " + getCurrentWord());
 
                             System.out.println(((AIPlayer) player).getName() + " inserted " + getCurrentWord());
 
 
                         } else {
-                            System.out.println(((AIPlayer) player).getName() + " removed from game");
-                            playerIterator.remove();                            
+                            log.info(((AIPlayer) player).getName() + "lose, removed from game");
+                            System.out.println(((AIPlayer) player).getName() + "lose, removed from game");
+                            playerIterator.remove();
                             continue;
 
 
@@ -147,8 +154,6 @@ public class Game {
 
 
             }
-
-
 
 
         }
