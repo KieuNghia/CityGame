@@ -1,0 +1,62 @@
+2015-05-19 18:53:01,324 [               Game.java:main:107] - First letterA
+2015-05-19 18:53:01,810 [               Game.java:main:122] - RealPlayer 0lose, removed from game
+2015-05-19 18:53:01,811 [               Game.java:main:134] - AIPlayer 0 inserted AGUILAR
+2015-05-19 18:53:01,814 [               Game.java:main:134] - AIPlayer 1 inserted RAMAH
+2015-05-19 18:53:01,815 [               Game.java:main:134] - AIPlayer 2 inserted HAMILTON
+2015-05-19 18:53:01,815 [               Game.java:main:134] - AIPlayer 3 inserted NATHROP
+2015-05-19 18:53:01,815 [               Game.java:main:134] - AIPlayer 0 inserted PADRONI
+2015-05-19 18:53:01,815 [               Game.java:main:134] - AIPlayer 1 inserted IDAHO SPRINGS
+2015-05-19 18:53:01,815 [               Game.java:main:134] - AIPlayer 2 inserted SAGUACHE
+2015-05-19 18:53:01,816 [               Game.java:main:134] - AIPlayer 3 inserted EADS
+2015-05-19 18:53:01,816 [               Game.java:main:134] - AIPlayer 0 inserted SALIDA
+2015-05-19 18:53:01,816 [               Game.java:main:134] - AIPlayer 1 inserted AKRON
+2015-05-19 18:53:01,816 [               Game.java:main:134] - AIPlayer 2 inserted NATURITA
+2015-05-19 18:53:01,816 [               Game.java:main:134] - AIPlayer 3 inserted ALAMOSA
+2015-05-19 18:53:01,817 [               Game.java:main:134] - AIPlayer 0 inserted ALLENSPARK
+2015-05-19 18:53:01,817 [               Game.java:main:134] - AIPlayer 1 inserted KARVAL
+2015-05-19 18:53:01,818 [               Game.java:main:134] - AIPlayer 2 inserted LA JARA
+2015-05-19 18:53:01,818 [               Game.java:main:134] - AIPlayer 3 inserted ALMA
+2015-05-19 18:53:01,818 [               Game.java:main:134] - AIPlayer 0 inserted ALMONT
+2015-05-19 18:53:01,819 [               Game.java:main:134] - AIPlayer 1 inserted TABERNASH
+2015-05-19 18:53:01,819 [               Game.java:main:134] - AIPlayer 2 inserted HARTSEL
+2015-05-19 18:53:01,819 [               Game.java:main:134] - AIPlayer 3 inserted LA JUNTA
+2015-05-19 18:53:01,820 [               Game.java:main:134] - AIPlayer 0 inserted ANTON
+2015-05-19 18:53:01,820 [               Game.java:main:134] - AIPlayer 1 inserted NEDERLAND
+2015-05-19 18:53:01,820 [               Game.java:main:134] - AIPlayer 2 inserted DACONO
+2015-05-19 18:53:01,821 [               Game.java:main:134] - AIPlayer 3 inserted OAK CREEK
+2015-05-19 18:53:01,821 [               Game.java:main:134] - AIPlayer 0 inserted KEENESBURG
+2015-05-19 18:53:01,821 [               Game.java:main:134] - AIPlayer 1 inserted GALETON
+2015-05-19 18:53:01,821 [               Game.java:main:134] - AIPlayer 2 inserted NEW CASTLE
+2015-05-19 18:53:01,821 [               Game.java:main:134] - AIPlayer 3 inserted EAGLE
+2015-05-19 18:53:01,821 [               Game.java:main:134] - AIPlayer 0 inserted EASTLAKE
+2015-05-19 18:53:01,822 [               Game.java:main:134] - AIPlayer 1 inserted EATON
+2015-05-19 18:53:01,822 [               Game.java:main:134] - AIPlayer 2 inserted NEW RAYMER
+2015-05-19 18:53:01,822 [               Game.java:main:134] - AIPlayer 3 inserted RANGELY
+2015-05-19 18:53:01,822 [               Game.java:main:134] - AIPlayer 0 inserted YAMPA
+2015-05-19 18:53:01,822 [               Game.java:main:134] - AIPlayer 1 inserted ANTONITO
+2015-05-19 18:53:01,822 [               Game.java:main:134] - AIPlayer 2 inserted OLATHE
+2015-05-19 18:53:01,822 [               Game.java:main:134] - AIPlayer 3 inserted ECKERT
+2015-05-19 18:53:01,823 [               Game.java:main:134] - AIPlayer 0 inserted TELLURIDE
+2015-05-19 18:53:01,824 [               Game.java:main:134] - AIPlayer 1 inserted ECKLEY
+2015-05-19 18:53:01,824 [               Game.java:main:134] - AIPlayer 2 inserted YELLOW JACKET
+2015-05-19 18:53:01,824 [               Game.java:main:134] - AIPlayer 3 inserted TIMNATH
+2015-05-19 18:53:01,825 [               Game.java:main:134] - AIPlayer 0 inserted HASTY
+2015-05-19 18:53:01,825 [               Game.java:main:134] - AIPlayer 1 inserted YODER
+2015-05-19 18:53:01,825 [               Game.java:main:134] - AIPlayer 2 inserted RED FEATHER LAKES
+2015-05-19 18:53:01,825 [               Game.java:main:134] - AIPlayer 3 inserted SANFORD
+2015-05-19 18:53:01,825 [               Game.java:main:134] - AIPlayer 0 inserted DE BEQUE
+2015-05-19 18:53:01,825 [               Game.java:main:134] - AIPlayer 1 inserted EDWARDS
+2015-05-19 18:53:01,825 [               Game.java:main:134] - AIPlayer 2 inserted SEDALIA
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 3 inserted ARAPAHOE
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 0 inserted EGNAR
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 1 inserted RIDGWAY
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 2 inserted YUMA
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 3 inserted ARRIBA
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 0 inserted ARVADA
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 1 inserted ASPEN
+2015-05-19 18:53:01,826 [               Game.java:main:134] - AIPlayer 2 inserted NIWOT
+2015-05-19 18:53:01,827 [               Game.java:main:134] - AIPlayer 3 inserted TOWAOC
+2015-05-19 18:53:01,827 [               Game.java:main:134] - AIPlayer 0 inserted CITY
+2015-05-19 18:53:01,827 [               Game.java:main:140] - AIPlayer 1lose, removed from game
+2015-05-19 18:53:01,827 [               Game.java:main:140] - AIPlayer 2lose, removed from game
+2015-05-19 18:53:01,827 [               Game.java:main:140] - AIPlayer 3lose, removed from game
