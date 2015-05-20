@@ -6,33 +6,26 @@ import Entities.RealPlayer;
 import ParseFactory.FactoryBuilder;
 
 import java.util.*;
-import java.util.logging.Logger;
 
 public class Game {
 
     private static final org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger("debugLogger");
     private static List<String> citiesList;
+    private static LinkedList<Player> playersList = new LinkedList<>();
 
     private static char firstLetter;
     private static String currentWord;
-    private static String winner;
 
-    private static LinkedList<Player> playersList = new LinkedList<>();
 
     public Game() {
 
         setCitiesList(new FactoryBuilder().createCitiesBuilder("EXEL"));
+        Collections.shuffle(getCitiesList());
+
 
 
     }
 
-    public static String getWinner() {
-        return winner;
-    }
-
-    public static void setWinner(String winner) {
-        Game.winner = winner;
-    }
 
     public static List<String> getCitiesList() {
         return citiesList;
@@ -69,6 +62,7 @@ public class Game {
 
 
     public void start() {
+
 
         int realPlayerCount = 0;
         int AIPlayerCount = 0;
@@ -201,6 +195,5 @@ public class Game {
 
             }
         }
-
     }
 }
