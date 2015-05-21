@@ -14,10 +14,6 @@ public class AIPlayer extends Player {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public AIPlayer(String name) {
         this.name = name;
     }

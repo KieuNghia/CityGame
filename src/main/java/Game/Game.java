@@ -35,13 +35,10 @@ public class Game {
         Game.citiesList = citiesList;
     }
 
-    public static LinkedList<Player> getPlayersList() {
+    public  LinkedList<Player> getPlayersList() {
         return playersList;
     }
 
-    public static void setPlayersList(LinkedList<Player> playersList) {
-        Game.playersList = playersList;
-    }
 
     public static String getCurrentWord() {
         return currentWord;
@@ -171,7 +168,7 @@ public class Game {
     }
 
 
-    public static void setPlayersList(int real, int AI) {
+    public  void setPlayersList(int real, int AI) {
 
         for (int i = 0; i < real; i++) {
             try {

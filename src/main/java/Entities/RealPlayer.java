@@ -13,10 +13,6 @@ public class RealPlayer extends Player {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public RealPlayer(String name) {
         this.name = name;
     }
