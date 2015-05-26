@@ -41,6 +41,8 @@ public class GameTest {
 
     @Test(description = "Check city array after Game init")
     public void cityArray(){
+        Assert.assertNotNull(game.getPlayersList());
+
     }
 
 
