@@ -1,0 +1,398 @@
+2015-05-26 15:28:01,882 [               Game.java:main:98] - First letterA
+2015-05-26 15:28:04,343 [               Game.java:main:113] - RealPlayer 0 inserted null
+2015-05-26 15:28:04,346 [               Game.java:main:114] - RealPlayer 0lose, removed from game
+2015-05-26 15:28:04,346 [               Game.java:main:126] - AIPlayer 0 inserted ALLENSPARK
+2015-05-26 15:28:04,347 [               Game.java:main:126] - AIPlayer 1 inserted KERSEY
+2015-05-26 15:28:04,347 [               Game.java:main:126] - AIPlayer 2 inserted YODER
+2015-05-26 15:28:04,347 [               Game.java:main:126] - AIPlayer 3 inserted RIDGWAY
+2015-05-26 15:28:04,347 [               Game.java:main:126] - AIPlayer 0 inserted YUMA
+2015-05-26 15:28:04,347 [               Game.java:main:126] - AIPlayer 1 inserted ARVADA
+2015-05-26 15:28:04,347 [               Game.java:main:126] - AIPlayer 2 inserted AKRON
+2015-05-26 15:28:04,347 [               Game.java:main:126] - AIPlayer 3 inserted NEDERLAND
+2015-05-26 15:28:04,348 [               Game.java:main:126] - AIPlayer 0 inserted DELTA
+2015-05-26 15:28:04,348 [               Game.java:main:126] - AIPlayer 1 inserted AURORA
+2015-05-26 15:28:04,348 [               Game.java:main:126] - AIPlayer 2 inserted ANTON
+2015-05-26 15:28:04,348 [               Game.java:main:126] - AIPlayer 3 inserted NATURITA
+2015-05-26 15:28:04,348 [               Game.java:main:126] - AIPlayer 0 inserted AUSTIN
+2015-05-26 15:28:04,349 [               Game.java:main:126] - AIPlayer 1 inserted NEW CASTLE
+2015-05-26 15:28:04,349 [               Game.java:main:126] - AIPlayer 2 inserted EASTLAKE
+2015-05-26 15:28:04,349 [               Game.java:main:126] - AIPlayer 3 inserted EAGLE
+2015-05-26 15:28:04,349 [               Game.java:main:126] - AIPlayer 0 inserted EDWARDS
+2015-05-26 15:28:04,350 [               Game.java:main:126] - AIPlayer 1 inserted SILVERTON
+2015-05-26 15:28:04,350 [               Game.java:main:126] - AIPlayer 2 inserted NORWOOD
+2015-05-26 15:28:04,350 [               Game.java:main:126] - AIPlayer 3 inserted DURANGO
+2015-05-26 15:28:04,350 [               Game.java:main:126] - AIPlayer 0 inserted OAK CREEK
+2015-05-26 15:28:04,350 [               Game.java:main:126] - AIPlayer 1 inserted KREMMLING
+2015-05-26 15:28:04,350 [               Game.java:main:126] - AIPlayer 2 inserted GUNNISON
+2015-05-26 15:28:04,351 [               Game.java:main:126] - AIPlayer 3 inserted NUNN
+2015-05-26 15:28:04,351 [               Game.java:main:126] - AIPlayer 0 inserted NUCLA
+2015-05-26 15:28:04,351 [               Game.java:main:126] - AIPlayer 1 inserted ARAPAHOE
+2015-05-26 15:28:04,351 [               Game.java:main:126] - AIPlayer 2 inserted ELIZABETH
+2015-05-26 15:28:04,351 [               Game.java:main:126] - AIPlayer 3 inserted HOLLY
+2015-05-26 15:28:04,351 [               Game.java:main:126] - AIPlayer 0 inserted YELLOW JACKET
+2015-05-26 15:28:04,351 [               Game.java:main:126] - AIPlayer 1 inserted TWIN LAKES
+2015-05-26 15:28:04,352 [               Game.java:main:126] - AIPlayer 2 inserted SHAWNEE
+2015-05-26 15:28:04,352 [               Game.java:main:126] - AIPlayer 3 inserted ECKLEY
+2015-05-26 15:28:04,352 [               Game.java:main:126] - AIPlayer 0 inserted YAMPA
+2015-05-26 15:28:04,352 [               Game.java:main:126] - AIPlayer 1 inserted AGUILAR
+2015-05-26 15:28:04,352 [               Game.java:main:126] - AIPlayer 2 inserted ROCKVALE
+2015-05-26 15:28:04,352 [               Game.java:main:126] - AIPlayer 3 inserted ELDORADO SPRINGS
+2015-05-26 15:28:04,352 [               Game.java:main:126] - AIPlayer 0 inserted SWINK
+2015-05-26 15:28:04,353 [               Game.java:main:126] - AIPlayer 1 inserted KEENESBURG
+2015-05-26 15:28:04,353 [               Game.java:main:126] - AIPlayer 2 inserted GILCREST
+2015-05-26 15:28:04,353 [               Game.java:main:126] - AIPlayer 3 inserted TRINIDAD
+2015-05-26 15:28:04,353 [               Game.java:main:126] - AIPlayer 0 inserted DACONO
+2015-05-26 15:28:04,353 [               Game.java:main:126] - AIPlayer 1 inserted OVID
+2015-05-26 15:28:04,390 [               Game.java:main:126] - AIPlayer 2 inserted DE BEQUE
+2015-05-26 15:28:04,390 [               Game.java:main:126] - AIPlayer 3 inserted EATON
+2015-05-26 15:28:04,390 [               Game.java:main:126] - AIPlayer 0 inserted NIWOT
+2015-05-26 15:28:04,390 [               Game.java:main:126] - AIPlayer 1 inserted TIMNATH
+2015-05-26 15:28:04,390 [               Game.java:main:126] - AIPlayer 2 inserted HASTY
+2015-05-26 15:28:04,390 [               Game.java:main:132] - AIPlayer 3lose, removed from game
+2015-05-26 15:28:04,391 [               Game.java:main:132] - AIPlayer 0lose, removed from game
+2015-05-26 15:28:04,391 [               Game.java:main:132] - AIPlayer 1lose, removed from game
+2015-05-26 15:28:04,391 [               Game.java:main:132] - AIPlayer 2lose, removed from game
+2015-05-26 15:29:25,977 [               Game.java:main:98] - First letterA
+2015-05-26 15:29:27,672 [               Game.java:main:113] - RealPlayer 0 inserted null
+2015-05-26 15:29:27,676 [               Game.java:main:114] - RealPlayer 0lose, removed from game
+2015-05-26 15:29:27,676 [               Game.java:main:126] - AIPlayer 0 inserted ARRIBA
+2015-05-26 15:29:27,681 [               Game.java:main:126] - AIPlayer 1 inserted ALMONT
+2015-05-26 15:29:27,682 [               Game.java:main:126] - AIPlayer 2 inserted TIMNATH
+2015-05-26 15:29:27,682 [               Game.java:main:126] - AIPlayer 3 inserted HAXTUN
+2015-05-26 15:29:27,682 [               Game.java:main:126] - AIPlayer 4 inserted NIWOT
+2015-05-26 15:29:27,682 [               Game.java:main:126] - AIPlayer 0 inserted TRINCHERA
+2015-05-26 15:29:27,682 [               Game.java:main:126] - AIPlayer 1 inserted AULT
+2015-05-26 15:29:27,683 [               Game.java:main:126] - AIPlayer 2 inserted TABERNASH
+2015-05-26 15:29:27,683 [               Game.java:main:126] - AIPlayer 3 inserted HOT SULPHUR SPRINGS
+2015-05-26 15:29:27,683 [               Game.java:main:126] - AIPlayer 4 inserted SWINK
+2015-05-26 15:29:27,683 [               Game.java:main:126] - AIPlayer 0 inserted KERSEY
+2015-05-26 15:29:27,683 [               Game.java:main:126] - AIPlayer 1 inserted YELLOW JACKET
+2015-05-26 15:29:27,684 [               Game.java:main:126] - AIPlayer 2 inserted TRINIDAD
+2015-05-26 15:29:27,685 [               Game.java:main:126] - AIPlayer 3 inserted DEL NORTE
+2015-05-26 15:29:27,685 [               Game.java:main:126] - AIPlayer 4 inserted ECKERT
+2015-05-26 15:29:27,685 [               Game.java:main:126] - AIPlayer 0 inserted TELLURIDE
+2015-05-26 15:29:27,686 [               Game.java:main:126] - AIPlayer 1 inserted EASTLAKE
+2015-05-26 15:29:27,686 [               Game.java:main:126] - AIPlayer 2 inserted EGNAR
+2015-05-26 15:29:27,686 [               Game.java:main:126] - AIPlayer 3 inserted ROCKY FORD
+2015-05-26 15:29:27,687 [               Game.java:main:126] - AIPlayer 4 inserted DILLON
+2015-05-26 15:29:27,688 [               Game.java:main:126] - AIPlayer 0 inserted NEW RAYMER
+2015-05-26 15:29:27,688 [               Game.java:main:126] - AIPlayer 1 inserted RAMAH
+2015-05-26 15:29:27,689 [               Game.java:main:126] - AIPlayer 2 inserted HAYDEN
+2015-05-26 15:29:27,690 [               Game.java:main:126] - AIPlayer 3 inserted NORWOOD
+2015-05-26 15:29:27,690 [               Game.java:main:126] - AIPlayer 4 inserted DUPONT
+2015-05-26 15:29:27,691 [               Game.java:main:126] - AIPlayer 0 inserted TOWAOC
+2015-05-26 15:29:27,692 [               Game.java:main:126] - AIPlayer 1 inserted CHEYENNE WELLS
+2015-05-26 15:29:27,692 [               Game.java:main:126] - AIPlayer 2 inserted SEIBERT
+2015-05-26 15:29:27,692 [               Game.java:main:126] - AIPlayer 3 inserted TWIN LAKES
+2015-05-26 15:29:27,692 [               Game.java:main:126] - AIPlayer 4 inserted SAGUACHE
+2015-05-26 15:29:27,692 [               Game.java:main:126] - AIPlayer 0 inserted ELIZABETH
+2015-05-26 15:29:27,695 [               Game.java:main:126] - AIPlayer 1 inserted HYGIENE
+2015-05-26 15:29:27,695 [               Game.java:main:126] - AIPlayer 2 inserted ELDORADO SPRINGS
+2015-05-26 15:29:27,705 [               Game.java:main:126] - AIPlayer 3 inserted SALIDA
+2015-05-26 15:29:27,705 [               Game.java:main:126] - AIPlayer 4 inserted ATWOOD
+2015-05-26 15:29:27,705 [               Game.java:main:126] - AIPlayer 0 inserted DRAKE
+2015-05-26 15:29:27,705 [               Game.java:main:126] - AIPlayer 1 inserted ERIE
+2015-05-26 15:29:27,706 [               Game.java:main:126] - AIPlayer 2 inserted EDWARDS
+2015-05-26 15:29:27,706 [               Game.java:main:126] - AIPlayer 3 inserted SHERIDAN LAKE
+2015-05-26 15:29:27,706 [               Game.java:main:126] - AIPlayer 4 inserted ECKLEY
+2015-05-26 15:29:27,706 [               Game.java:main:126] - AIPlayer 0 inserted YODER
+2015-05-26 15:29:27,706 [               Game.java:main:126] - AIPlayer 1 inserted ROCKVALE
+2015-05-26 15:29:27,706 [               Game.java:main:126] - AIPlayer 2 inserted ELBERT
+2015-05-26 15:29:27,706 [               Game.java:main:132] - AIPlayer 3lose, removed from game
+2015-05-26 15:29:27,706 [               Game.java:main:132] - AIPlayer 4lose, removed from game
+2015-05-26 15:29:27,707 [               Game.java:main:132] - AIPlayer 0lose, removed from game
+2015-05-26 15:29:27,707 [               Game.java:main:132] - AIPlayer 1lose, removed from game
+2015-05-26 15:29:27,707 [               Game.java:main:132] - AIPlayer 2lose, removed from game
+2015-05-26 15:31:11,730 [               Game.java:main:98] - First letterA
+2015-05-26 15:31:14,103 [               Game.java:main:113] - RealPlayer 0 inserted null
+2015-05-26 15:31:14,103 [               Game.java:main:114] - RealPlayer 0lose, removed from game
+2015-05-26 15:31:14,103 [               Game.java:main:126] - AIPlayer 0 inserted AULT
+2015-05-26 15:31:14,103 [               Game.java:main:126] - AIPlayer 1 inserted TABERNASH
+2015-05-26 15:31:14,104 [               Game.java:main:126] - AIPlayer 2 inserted HOWARD
+2015-05-26 15:31:14,106 [               Game.java:main:126] - AIPlayer 3 inserted DILLON
+2015-05-26 15:31:14,107 [               Game.java:main:126] - AIPlayer 4 inserted NEDERLAND
+2015-05-26 15:31:14,107 [               Game.java:main:126] - AIPlayer 0 inserted DUMONT
+2015-05-26 15:31:14,107 [               Game.java:main:126] - AIPlayer 1 inserted TOWAOC
+2015-05-26 15:31:14,107 [               Game.java:main:126] - AIPlayer 2 inserted COMMERCE CITY
+2015-05-26 15:31:14,108 [               Game.java:main:126] - AIPlayer 3 inserted YODER
+2015-05-26 15:31:14,108 [               Game.java:main:126] - AIPlayer 4 inserted ROCKVALE
+2015-05-26 15:31:14,108 [               Game.java:main:126] - AIPlayer 0 inserted ESTES PARK
+2015-05-26 15:31:14,108 [               Game.java:main:126] - AIPlayer 1 inserted KEENESBURG
+2015-05-26 15:31:14,108 [               Game.java:main:126] - AIPlayer 2 inserted GUFFEY
+2015-05-26 15:31:14,110 [               Game.java:main:126] - AIPlayer 3 inserted YELLOW JACKET
+2015-05-26 15:31:14,110 [               Game.java:main:126] - AIPlayer 4 inserted TRINIDAD
+2015-05-26 15:31:14,110 [               Game.java:main:126] - AIPlayer 0 inserted DE BEQUE
+2015-05-26 15:31:14,111 [               Game.java:main:126] - AIPlayer 1 inserted EGNAR
+2015-05-26 15:31:14,111 [               Game.java:main:126] - AIPlayer 2 inserted ROGGEN
+2015-05-26 15:31:14,111 [               Game.java:main:126] - AIPlayer 3 inserted NIWOT
+2015-05-26 15:31:14,111 [               Game.java:main:126] - AIPlayer 4 inserted TELLURIDE
+2015-05-26 15:31:14,112 [               Game.java:main:126] - AIPlayer 0 inserted EADS
+2015-05-26 15:31:14,112 [               Game.java:main:126] - AIPlayer 1 inserted SHERIDAN LAKE
+2015-05-26 15:31:14,115 [               Game.java:main:126] - AIPlayer 2 inserted EASTLAKE
+2015-05-26 15:31:14,115 [               Game.java:main:126] - AIPlayer 3 inserted ELIZABETH
+2015-05-26 15:31:14,115 [               Game.java:main:126] - AIPlayer 4 inserted HOTCHKISS
+2015-05-26 15:31:14,115 [               Game.java:main:126] - AIPlayer 0 inserted STEAMBOAT SPRINGS
+2015-05-26 15:31:14,115 [               Game.java:main:126] - AIPlayer 1 inserted SAGUACHE
+2015-05-26 15:31:14,115 [               Game.java:main:126] - AIPlayer 2 inserted EVANS
+2015-05-26 15:31:14,116 [               Game.java:main:126] - AIPlayer 3 inserted STERLING
+2015-05-26 15:31:14,116 [               Game.java:main:126] - AIPlayer 4 inserted GRANADA
+2015-05-26 15:31:14,116 [               Game.java:main:126] - AIPlayer 0 inserted AVON
+2015-05-26 15:31:14,117 [               Game.java:main:126] - AIPlayer 1 inserted NUNN
+2015-05-26 15:31:14,119 [               Game.java:main:126] - AIPlayer 2 inserted NEW RAYMER
+2015-05-26 15:31:14,119 [               Game.java:main:126] - AIPlayer 3 inserted RIFLE
+2015-05-26 15:31:14,119 [               Game.java:main:126] - AIPlayer 4 inserted EDWARDS
+2015-05-26 15:31:14,119 [               Game.java:main:126] - AIPlayer 0 inserted SILVERTON
+2015-05-26 15:31:14,119 [               Game.java:main:126] - AIPlayer 1 inserted NEW CASTLE
+2015-05-26 15:31:14,119 [               Game.java:main:126] - AIPlayer 2 inserted EVERGREEN
+2015-05-26 15:31:14,120 [               Game.java:main:126] - AIPlayer 3 inserted NORWOOD
+2015-05-26 15:31:14,120 [               Game.java:main:126] - AIPlayer 4 inserted DUPONT
+2015-05-26 15:31:14,120 [               Game.java:main:126] - AIPlayer 0 inserted TIMNATH
+2015-05-26 15:31:14,120 [               Game.java:main:126] - AIPlayer 1 inserted HOOPER
+2015-05-26 15:31:14,120 [               Game.java:main:126] - AIPlayer 2 inserted RANGELY
+2015-05-26 15:31:14,120 [               Game.java:main:126] - AIPlayer 3 inserted YAMPA
+2015-05-26 15:31:14,120 [               Game.java:main:126] - AIPlayer 4 inserted ARAPAHOE
+2015-05-26 15:31:14,121 [               Game.java:main:126] - AIPlayer 0 inserted ELBERT
+2015-05-26 15:31:14,121 [               Game.java:main:126] - AIPlayer 1 inserted TRINCHERA
+2015-05-26 15:31:14,121 [               Game.java:main:126] - AIPlayer 2 inserted AURORA
+2015-05-26 15:31:14,121 [               Game.java:main:126] - AIPlayer 3 inserted AGUILAR
+2015-05-26 15:31:14,121 [               Game.java:main:126] - AIPlayer 4 inserted RIDGWAY
+2015-05-26 15:31:14,121 [               Game.java:main:126] - AIPlayer 0 inserted YUMA
+2015-05-26 15:31:14,121 [               Game.java:main:126] - AIPlayer 1 inserted ASPEN
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 2 inserted NUCLA
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 3 inserted ARRIBA
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 4 inserted ALMONT
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 0 inserted TWIN LAKES
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 1 inserted SNYDER
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 2 inserted RYE
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 3 inserted EAGLE
+2015-05-26 15:31:14,122 [               Game.java:main:126] - AIPlayer 4 inserted ENGLEWOOD
+2015-05-26 15:31:14,123 [               Game.java:main:126] - AIPlayer 0 inserted DRAKE
+2015-05-26 15:31:14,123 [               Game.java:main:126] - AIPlayer 1 inserted EATON
+2015-05-26 15:31:14,123 [               Game.java:main:126] - AIPlayer 2 inserted NATURITA
+2015-05-26 15:31:14,123 [               Game.java:main:126] - AIPlayer 3 inserted ATWOOD
+2015-05-26 15:31:14,123 [               Game.java:main:126] - AIPlayer 4 inserted DOVE CREEK
+2015-05-26 15:31:14,123 [               Game.java:main:126] - AIPlayer 0 inserted KIRK
+2015-05-26 15:31:14,123 [               Game.java:main:126] - AIPlayer 1 inserted KIT CARSON
+2015-05-26 15:31:14,125 [               Game.java:main:126] - AIPlayer 2 inserted NATHROP
+2015-05-26 15:31:14,125 [               Game.java:main:126] - AIPlayer 3 inserted PLATTEVILLE
+2015-05-26 15:31:14,126 [               Game.java:main:126] - AIPlayer 4 inserted ECKLEY
+2015-05-26 15:31:14,126 [               Game.java:main:132] - AIPlayer 0lose, removed from game
+2015-05-26 15:31:14,126 [               Game.java:main:132] - AIPlayer 1lose, removed from game
+2015-05-26 15:31:14,126 [               Game.java:main:132] - AIPlayer 2lose, removed from game
+2015-05-26 15:31:14,126 [               Game.java:main:132] - AIPlayer 3lose, removed from game
+2015-05-26 15:31:14,126 [               Game.java:main:132] - AIPlayer 4lose, removed from game
+2015-05-26 15:33:03,541 [               Game.java:main:98] - First letterA
+2015-05-26 15:33:05,409 [               Game.java:main:113] - RealPlayer 0 inserted null
+2015-05-26 15:33:05,409 [               Game.java:main:114] - RealPlayer 0lose, removed from game
+2015-05-26 15:33:05,410 [               Game.java:main:126] - AIPlayer 0 inserted ALAMOSA
+2015-05-26 15:33:05,410 [               Game.java:main:126] - AIPlayer 1 inserted ANTONITO
+2015-05-26 15:33:05,410 [               Game.java:main:126] - AIPlayer 2 inserted ORCHARD
+2015-05-26 15:33:05,410 [               Game.java:main:126] - AIPlayer 3 inserted DOLORES
+2015-05-26 15:33:05,410 [               Game.java:main:126] - AIPlayer 4 inserted SEVERANCE
+2015-05-26 15:33:05,411 [               Game.java:main:126] - AIPlayer 0 inserted EASTLAKE
+2015-05-26 15:33:05,411 [               Game.java:main:126] - AIPlayer 1 inserted EVANS
+2015-05-26 15:33:05,411 [               Game.java:main:126] - AIPlayer 2 inserted STEAMBOAT SPRINGS
+2015-05-26 15:33:05,412 [               Game.java:main:126] - AIPlayer 3 inserted STRASBURG
+2015-05-26 15:33:05,412 [               Game.java:main:126] - AIPlayer 4 inserted GUNNISON
+2015-05-26 15:33:05,412 [               Game.java:main:126] - AIPlayer 0 inserted NATHROP
+2015-05-26 15:33:05,412 [               Game.java:main:126] - AIPlayer 1 inserted PARKER
+2015-05-26 15:33:05,412 [               Game.java:main:126] - AIPlayer 2 inserted RANGELY
+2015-05-26 15:33:05,413 [               Game.java:main:126] - AIPlayer 3 inserted YELLOW JACKET
+2015-05-26 15:33:05,414 [               Game.java:main:126] - AIPlayer 4 inserted TWIN LAKES
+2015-05-26 15:33:05,414 [               Game.java:main:126] - AIPlayer 0 inserted SNYDER
+2015-05-26 15:33:05,414 [               Game.java:main:126] - AIPlayer 1 inserted ROGGEN
+2015-05-26 15:33:05,414 [               Game.java:main:126] - AIPlayer 2 inserted NIWOT
+2015-05-26 15:33:05,415 [               Game.java:main:126] - AIPlayer 3 inserted TRINCHERA
+2015-05-26 15:33:05,415 [               Game.java:main:126] - AIPlayer 4 inserted AULT
+2015-05-26 15:33:05,415 [               Game.java:main:126] - AIPlayer 0 inserted TABERNASH
+2015-05-26 15:33:05,415 [               Game.java:main:126] - AIPlayer 1 inserted HOWARD
+2015-05-26 15:33:05,415 [               Game.java:main:126] - AIPlayer 2 inserted DILLON
+2015-05-26 15:33:05,416 [               Game.java:main:126] - AIPlayer 3 inserted NEW CASTLE
+2015-05-26 15:33:05,416 [               Game.java:main:126] - AIPlayer 4 inserted ECKERT
+2015-05-26 15:33:05,416 [               Game.java:main:126] - AIPlayer 0 inserted TOWAOC
+2015-05-26 15:33:05,417 [               Game.java:main:126] - AIPlayer 1 inserted COMMERCE CITY
+2015-05-26 15:33:05,417 [               Game.java:main:126] - AIPlayer 2 inserted YODER
+2015-05-26 15:33:05,417 [               Game.java:main:126] - AIPlayer 3 inserted RIFLE
+2015-05-26 15:33:05,417 [               Game.java:main:126] - AIPlayer 4 inserted ELBERT
+2015-05-26 15:33:05,417 [               Game.java:main:126] - AIPlayer 0 inserted TIMNATH
+2015-05-26 15:33:05,418 [               Game.java:main:126] - AIPlayer 1 inserted HOLYOKE
+2015-05-26 15:33:05,418 [               Game.java:main:126] - AIPlayer 2 inserted ECKLEY
+2015-05-26 15:33:05,418 [               Game.java:main:126] - AIPlayer 3 inserted YAMPA
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 4 inserted ATWOOD
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 0 inserted DUMONT
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 1 inserted TRINIDAD
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 2 inserted DE BEQUE
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 3 inserted EADS
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 4 inserted SALIDA
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 0 inserted AKRON
+2015-05-26 15:33:05,419 [               Game.java:main:126] - AIPlayer 1 inserted NORWOOD
+2015-05-26 15:33:05,420 [               Game.java:main:126] - AIPlayer 2 inserted DEER TRAIL
+2015-05-26 15:33:05,420 [               Game.java:main:126] - AIPlayer 3 inserted LOUISVILLE
+2015-05-26 15:33:05,420 [               Game.java:main:126] - AIPlayer 4 inserted ELDORADO SPRINGS
+2015-05-26 15:33:05,420 [               Game.java:main:126] - AIPlayer 0 inserted SILVERTHORNE
+2015-05-26 15:33:05,420 [               Game.java:main:126] - AIPlayer 1 inserted ENGLEWOOD
+2015-05-26 15:33:05,420 [               Game.java:main:126] - AIPlayer 2 inserted DENVER
+2015-05-26 15:33:05,420 [               Game.java:main:126] - AIPlayer 3 inserted RIDGWAY
+2015-05-26 15:33:05,421 [               Game.java:main:126] - AIPlayer 4 inserted YUMA
+2015-05-26 15:33:05,421 [               Game.java:main:126] - AIPlayer 0 inserted AVON
+2015-05-26 15:33:05,421 [               Game.java:main:126] - AIPlayer 1 inserted NEDERLAND
+2015-05-26 15:33:05,421 [               Game.java:main:126] - AIPlayer 2 inserted DUPONT
+2015-05-26 15:33:05,422 [               Game.java:main:126] - AIPlayer 3 inserted TELLURIDE
+2015-05-26 15:33:05,422 [               Game.java:main:126] - AIPlayer 4 inserted ELIZABETH
+2015-05-26 15:33:05,422 [               Game.java:main:126] - AIPlayer 0 inserted HAYDEN
+2015-05-26 15:33:05,422 [               Game.java:main:126] - AIPlayer 1 inserted NATURITA
+2015-05-26 15:33:05,422 [               Game.java:main:126] - AIPlayer 2 inserted ASPEN
+2015-05-26 15:33:05,422 [               Game.java:main:126] - AIPlayer 3 inserted NEW RAYMER
+2015-05-26 15:33:05,423 [               Game.java:main:126] - AIPlayer 4 inserted ROLLINSVILLE
+2015-05-26 15:33:05,423 [               Game.java:main:126] - AIPlayer 0 inserted EATON
+2015-05-26 15:33:05,423 [               Game.java:main:126] - AIPlayer 1 inserted NUNN
+2015-05-26 15:33:05,423 [               Game.java:main:126] - AIPlayer 2 inserted NUCLA
+2015-05-26 15:33:05,423 [               Game.java:main:126] - AIPlayer 3 inserted ALMA
+2015-05-26 15:33:05,423 [               Game.java:main:126] - AIPlayer 4 inserted AUSTIN
+2015-05-26 15:33:05,424 [               Game.java:main:132] - AIPlayer 0lose, removed from game
+2015-05-26 15:33:05,424 [               Game.java:main:132] - AIPlayer 1lose, removed from game
+2015-05-26 15:33:05,424 [               Game.java:main:132] - AIPlayer 2lose, removed from game
+2015-05-26 15:33:05,424 [               Game.java:main:132] - AIPlayer 3lose, removed from game
+2015-05-26 15:33:05,424 [               Game.java:main:132] - AIPlayer 4lose, removed from game
+2015-05-26 15:34:46,496 [               Game.java:main:98] - First letterA
+2015-05-26 15:34:50,742 [               Game.java:main:113] - RealPlayer 0 inserted null
+2015-05-26 15:34:50,743 [               Game.java:main:114] - RealPlayer 0lose, removed from game
+2015-05-26 15:34:50,743 [               Game.java:main:126] - AIPlayer 0 inserted ARRIBA
+2015-05-26 15:34:50,746 [               Game.java:main:126] - AIPlayer 1 inserted AUSTIN
+2015-05-26 15:34:50,747 [               Game.java:main:126] - AIPlayer 2 inserted NEW RAYMER
+2015-05-26 15:34:50,747 [               Game.java:main:126] - AIPlayer 3 inserted ROCKVALE
+2015-05-26 15:34:50,747 [               Game.java:main:126] - AIPlayer 0 inserted EATON
+2015-05-26 15:34:50,748 [               Game.java:main:126] - AIPlayer 1 inserted NEW CASTLE
+2015-05-26 15:34:50,748 [               Game.java:main:126] - AIPlayer 2 inserted EDWARDS
+2015-05-26 15:34:50,748 [               Game.java:main:126] - AIPlayer 3 inserted SNOWMASS VILLAGE
+2015-05-26 15:34:50,748 [               Game.java:main:126] - AIPlayer 0 inserted EASTLAKE
+2015-05-26 15:34:50,748 [               Game.java:main:126] - AIPlayer 1 inserted EVANS
+2015-05-26 15:34:50,748 [               Game.java:main:126] - AIPlayer 2 inserted STRATTON
+2015-05-26 15:34:50,749 [               Game.java:main:126] - AIPlayer 3 inserted NEDERLAND
+2015-05-26 15:34:50,749 [               Game.java:main:126] - AIPlayer 0 inserted DACONO
+2015-05-26 15:34:50,750 [               Game.java:main:126] - AIPlayer 1 inserted OURAY
+2015-05-26 15:34:50,750 [               Game.java:main:126] - AIPlayer 2 inserted YUMA
+2015-05-26 15:34:50,750 [               Game.java:main:126] - AIPlayer 3 inserted ANTON
+2015-05-26 15:34:50,750 [               Game.java:main:126] - AIPlayer 0 inserted NORWOOD
+2015-05-26 15:34:50,750 [               Game.java:main:126] - AIPlayer 1 inserted DEER TRAIL
+2015-05-26 15:34:50,750 [               Game.java:main:126] - AIPlayer 2 inserted LIVERMORE
+2015-05-26 15:34:50,751 [               Game.java:main:126] - AIPlayer 3 inserted ELIZABETH
+2015-05-26 15:34:50,751 [               Game.java:main:126] - AIPlayer 0 inserted HAXTUN
+2015-05-26 15:34:50,751 [               Game.java:main:126] - AIPlayer 1 inserted NIWOT
+2015-05-26 15:34:50,751 [               Game.java:main:126] - AIPlayer 2 inserted TABERNASH
+2015-05-26 15:34:50,751 [               Game.java:main:126] - AIPlayer 3 inserted HILLROSE
+2015-05-26 15:34:50,751 [               Game.java:main:126] - AIPlayer 0 inserted EAGLE
+2015-05-26 15:34:50,751 [               Game.java:main:126] - AIPlayer 1 inserted ECKLEY
+2015-05-26 15:34:50,752 [               Game.java:main:126] - AIPlayer 2 inserted YAMPA
+2015-05-26 15:34:50,752 [               Game.java:main:126] - AIPlayer 3 inserted AURORA
+2015-05-26 15:34:50,752 [               Game.java:main:126] - AIPlayer 0 inserted AVON
+2015-05-26 15:34:50,752 [               Game.java:main:126] - AIPlayer 1 inserted NATHROP
+2015-05-26 15:34:50,752 [               Game.java:main:126] - AIPlayer 2 inserted PARSHALL
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 3 inserted LAKE CITY
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 0 inserted YODER
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 1 inserted ROLLINSVILLE
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 2 inserted ELDORADO SPRINGS
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 3 inserted SILVERTHORNE
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 0 inserted EGNAR
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 1 inserted RYE
+2015-05-26 15:34:50,753 [               Game.java:main:126] - AIPlayer 2 inserted ELBERT
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 3 inserted TELLURIDE
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 0 inserted ECKERT
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 1 inserted TRINCHERA
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 2 inserted ALMONT
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 3 inserted TOWAOC
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 0 inserted CIMARRON
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 1 inserted NUNN
+2015-05-26 15:34:50,754 [               Game.java:main:126] - AIPlayer 2 inserted NATURITA
+2015-05-26 15:34:50,755 [               Game.java:main:126] - AIPlayer 3 inserted ALLENSPARK
+2015-05-26 15:34:50,755 [               Game.java:main:126] - AIPlayer 0 inserted KERSEY
+2015-05-26 15:34:50,755 [               Game.java:main:126] - AIPlayer 1 inserted YELLOW JACKET
+2015-05-26 15:34:50,755 [               Game.java:main:126] - AIPlayer 2 inserted TIMNATH
+2015-05-26 15:34:50,755 [               Game.java:main:126] - AIPlayer 3 inserted HOWARD
+2015-05-26 15:34:50,755 [               Game.java:main:126] - AIPlayer 0 inserted DILLON
+2015-05-26 15:34:50,755 [               Game.java:main:126] - AIPlayer 1 inserted NUCLA
+2015-05-26 15:34:50,756 [               Game.java:main:126] - AIPlayer 2 inserted ASPEN
+2015-05-26 15:34:50,772 [               Game.java:main:132] - AIPlayer 3lose, removed from game
+2015-05-26 15:34:50,772 [               Game.java:main:132] - AIPlayer 0lose, removed from game
+2015-05-26 15:34:50,773 [               Game.java:main:132] - AIPlayer 1lose, removed from game
+2015-05-26 15:34:50,773 [               Game.java:main:132] - AIPlayer 2lose, removed from game
+2015-05-26 15:35:09,305 [               Game.java:main:98] - First letterA
+2015-05-26 15:35:11,878 [               Game.java:main:109] - RealPlayer 0 inserted AUSTIN
+2015-05-26 15:35:11,878 [               Game.java:main:126] - AIPlayer 0 inserted NEW RAYMER
+2015-05-26 15:35:11,879 [               Game.java:main:126] - AIPlayer 1 inserted ROGGEN
+2015-05-26 15:35:11,879 [               Game.java:main:126] - AIPlayer 2 inserted NUNN
+2015-05-26 15:35:11,879 [               Game.java:main:126] - AIPlayer 3 inserted NATURITA
+2015-05-26 15:35:14,005 [               Game.java:main:113] - RealPlayer 0 inserted NATURITA
+2015-05-26 15:35:14,006 [               Game.java:main:114] - RealPlayer 0lose, removed from game
+2015-05-26 15:35:14,006 [               Game.java:main:126] - AIPlayer 0 inserted ARAPAHOE
+2015-05-26 15:35:14,007 [               Game.java:main:126] - AIPlayer 1 inserted ERIE
+2015-05-26 15:35:14,007 [               Game.java:main:126] - AIPlayer 2 inserted EDWARDS
+2015-05-26 15:35:14,007 [               Game.java:main:126] - AIPlayer 3 inserted SIMLA
+2015-05-26 15:35:14,007 [               Game.java:main:126] - AIPlayer 0 inserted AULT
+2015-05-26 15:35:14,008 [               Game.java:main:126] - AIPlayer 1 inserted TRINIDAD
+2015-05-26 15:35:14,008 [               Game.java:main:126] - AIPlayer 2 inserted DE BEQUE
+2015-05-26 15:35:14,008 [               Game.java:main:126] - AIPlayer 3 inserted EAGLE
+2015-05-26 15:35:14,010 [               Game.java:main:126] - AIPlayer 0 inserted ELDORADO SPRINGS
+2015-05-26 15:35:14,010 [               Game.java:main:126] - AIPlayer 1 inserted STEAMBOAT SPRINGS
+2015-05-26 15:35:14,010 [               Game.java:main:126] - AIPlayer 2 inserted SAGUACHE
+2015-05-26 15:35:14,010 [               Game.java:main:126] - AIPlayer 3 inserted EATON
+2015-05-26 15:35:14,010 [               Game.java:main:126] - AIPlayer 0 inserted NORWOOD
+2015-05-26 15:35:14,011 [               Game.java:main:126] - AIPlayer 1 inserted DOVE CREEK
+2015-05-26 15:35:14,012 [               Game.java:main:126] - AIPlayer 2 inserted KREMMLING
+2015-05-26 15:35:14,012 [               Game.java:main:126] - AIPlayer 3 inserted GYPSUM
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 0 inserted MESA VERDE NATIONAL PARK
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 1 inserted KIT CARSON
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 2 inserted NEDERLAND
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 3 inserted DURANGO
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 0 inserted OLATHE
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 1 inserted ECKLEY
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 2 inserted YUMA
+2015-05-26 15:35:14,013 [               Game.java:main:126] - AIPlayer 3 inserted ARVADA
+2015-05-26 15:35:14,014 [               Game.java:main:126] - AIPlayer 0 inserted AVON
+2015-05-26 15:35:14,014 [               Game.java:main:126] - AIPlayer 1 inserted NATHROP
+2015-05-26 15:35:14,015 [               Game.java:main:126] - AIPlayer 2 inserted PRITCHETT
+2015-05-26 15:35:14,015 [               Game.java:main:126] - AIPlayer 3 inserted TELLURIDE
+2015-05-26 15:35:14,016 [               Game.java:main:126] - AIPlayer 0 inserted EADS
+2015-05-26 15:35:14,016 [               Game.java:main:126] - AIPlayer 1 inserted STRASBURG
+2015-05-26 15:35:14,016 [               Game.java:main:126] - AIPlayer 2 inserted GLEN HAVEN
+2015-05-26 15:35:14,016 [               Game.java:main:126] - AIPlayer 3 inserted NUCLA
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 0 inserted ALMA
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 1 inserted ARRIBA
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 2 inserted ALLENSPARK
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 3 inserted KIOWA
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 0 inserted ATWOOD
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 1 inserted DUPONT
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 2 inserted TIMNATH
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 3 inserted HARTSEL
+2015-05-26 15:35:14,017 [               Game.java:main:126] - AIPlayer 0 inserted LAKE CITY
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 1 inserted YAMPA
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 2 inserted ANTON
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 3 inserted NIWOT
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 0 inserted TABERNASH
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 1 inserted HOLLY
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 2 inserted YELLOW JACKET
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 3 inserted TOWAOC
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 0 inserted CRIPPLE CREEK
+2015-05-26 15:35:14,018 [               Game.java:main:126] - AIPlayer 1 inserted KARVAL
+2015-05-26 15:35:14,019 [               Game.java:main:126] - AIPlayer 2 inserted LOMA
+2015-05-26 15:35:14,019 [               Game.java:main:126] - AIPlayer 3 inserted ALMONT
+2015-05-26 15:35:14,019 [               Game.java:main:126] - AIPlayer 0 inserted TWIN LAKES
+2015-05-26 15:35:14,019 [               Game.java:main:126] - AIPlayer 1 inserted SNOWMASS
+2015-05-26 15:35:14,020 [               Game.java:main:126] - AIPlayer 2 inserted SEVERANCE
+2015-05-26 15:35:14,020 [               Game.java:main:126] - AIPlayer 3 inserted EASTLAKE
+2015-05-26 15:35:14,020 [               Game.java:main:126] - AIPlayer 0 inserted ENGLEWOOD
+2015-05-26 15:35:14,020 [               Game.java:main:126] - AIPlayer 1 inserted DENVER
+2015-05-26 15:35:14,020 [               Game.java:main:126] - AIPlayer 2 inserted ROLLINSVILLE
+2015-05-26 15:35:14,020 [               Game.java:main:126] - AIPlayer 3 inserted EGNAR
+2015-05-26 15:35:14,021 [               Game.java:main:126] - AIPlayer 0 inserted RUSH
+2015-05-26 15:35:14,021 [               Game.java:main:126] - AIPlayer 1 inserted HAXTUN
+2015-05-26 15:35:14,021 [               Game.java:main:126] - AIPlayer 2 inserted NEW CASTLE
+2015-05-26 15:35:14,021 [               Game.java:main:126] - AIPlayer 3 inserted EVANS
+2015-05-26 15:35:14,021 [               Game.java:main:126] - AIPlayer 0 inserted SALIDA
+2015-05-26 15:35:14,021 [               Game.java:main:126] - AIPlayer 1 inserted AURORA
+2015-05-26 15:35:14,023 [               Game.java:main:126] - AIPlayer 2 inserted AGUILAR
+2015-05-26 15:35:14,023 [               Game.java:main:126] - AIPlayer 3 inserted RED FEATHER LAKES
+2015-05-26 15:35:14,023 [               Game.java:main:126] - AIPlayer 0 inserted STRATTON
+2015-05-26 15:35:14,023 [               Game.java:main:132] - AIPlayer 1lose, removed from game
+2015-05-26 15:35:14,024 [               Game.java:main:132] - AIPlayer 2lose, removed from game
+2015-05-26 15:35:14,024 [               Game.java:main:132] - AIPlayer 3lose, removed from game

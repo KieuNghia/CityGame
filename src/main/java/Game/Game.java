@@ -136,8 +136,6 @@ public class Game {
 
 
                         }
-                    } else {
-                        continue;
                     }
 
 
@@ -154,7 +152,7 @@ public class Game {
 
     public static void checkWinner() {
 
-        Player winner = playersList.getFirst();
+        Player winner = playersList.getLast();
         String winnerString;
         if (winner instanceof RealPlayer) {
             winnerString = ((RealPlayer) winner).getName();
